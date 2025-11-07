@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Felipe Carrasco</h1>
-<h3 align="center">A passionate Software engineer</h3>
+<h2 align="center">🚀 Software Engineer | Cloud Architect | Mobile Developer</h2>
+
+<h3 align="center">I'm passionate about building scalable systems using NestJS, React, and Google Cloud Platform (Certified in Digital cloud leader).  
+Currently leading the CarScore project — a microservices-based platform for automotive ratings.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pipeddev&label=Profile%20views&color=0e75b6&style=flat" alt="pipeddev" /> </p>
 
